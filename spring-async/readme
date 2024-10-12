@@ -1,0 +1,12 @@
+
+https://medium.com/javarevisited/how-does-spring-boot-implement-asynchronous-programming-this-is-how-masters-do-it-e89fc9245928
+
+Sample output:
+
+http-nio-8080-exec-1 Registering a user took 44 ms
+http-nio-8080-exec-3 Registering a user took 25 ms
+http-nio-8080-exec-2 Registering a user took 30 ms
+async-1 Sending an email took 2013 ms
+async-2 Sending an email took 2013 ms
+async-3 Sending an email took 2008 ms
+[2m2024-10-12T14:57:44.582+05:30[0;39m [32m INFO[0;39m [35m15268[0;39m [2m---[0;39m [2m[spring-async] [n(15)-127.0.0.1][0;39m [2m[0;39m[36minMXBeanRegistrar$SpringApplicationAdmin[0;39m [2m:[0;39m Application shutdown requested.

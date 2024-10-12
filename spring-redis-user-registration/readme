@@ -1,0 +1,5 @@
+https://medium.com/javarevisited/interview-how-to-check-whether-a-username-exists-among-one-billion-users-ffa0d0522998
+
+Output:
+User 'user123' exists? true
+User 'user456' exists? false
